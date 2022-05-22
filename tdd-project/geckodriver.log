@@ -1,0 +1,9 @@
+1653242929156	geckodriver	INFO	Listening on 127.0.0.1:49942
+1653242932183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Vitor\\AppData\\Local\\Temp\\rust_mozprofileAToXj3"
+1653242932613	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vitor\\AppData\\Local\\Temp\\rust_mozprofileAToXj3\\search.json.mozlz4", (void 0)))
+1653242935300	Marionette	INFO	Listening on port 49972
+Read port: 49972
+1653242935418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653242941807	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1653242943922	Marionette	INFO	Stopped listening on port 49972
