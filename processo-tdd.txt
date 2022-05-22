@@ -1,0 +1,10 @@
+- Escreva 1 teste funcional
+    - Se o teste passou, temos uma funcionalidade funcionado. Falta verificar se precisamos fazer refactoring do código relacionado a funcionalidade.
+        - Caso precise de refactoring, precisamos fazer o ciclo para criação de testes de unidade e refactoring.
+    - Se o teste não passou, precisamos fazer o ciclo para criação de testes de unidade e novas implementações.
+
+- Ciclo para criação de testes de unidade e novas implementações:
+    - Escreva 1 teste de unidade e rode ele
+        - Se o teste passou, temos um comportamento da nossa unidade funcionando. Falta verificar se precisamos fazer refactoring.
+            - Caso precise fazer refactoring, refatore o código e rode ele novamente, repetindo o processo de verificar se o teste passou ou não.
+        - Se o teste não passou, implemente ou modifique o código que fará ele passar e rode o teste novamente, repetindo o processo de verificar se o teste passou ou não.
