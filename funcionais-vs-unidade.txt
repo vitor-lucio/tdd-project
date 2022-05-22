@@ -1,0 +1,2 @@
+1. Testes funcionais são documentação sobre as funcionalidades do sistema, enquanto testes de unidade são testes dos comportamentos esperados em cada unidade do código.
+2. Testes funcionais não requerem que o programador pense no código que será escrito, ao criar estes tipos de testes. Testes de unidade requerem pelo menos uma estrutura básica, de uma unidade, para serem escritos. 
